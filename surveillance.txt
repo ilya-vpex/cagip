@@ -1,0 +1,16 @@
+Bonjour chers collègues,
+Je voudrais partager avec vous mes idées concernant les chantiers dans le cadre de la rationalisation supervision/surveillance.
+À mon avis, il est nécessaire d’auditer chaque application (SAA/SAG, etc.) sous les aspects suivants :
+1.	Exécution des tâches Control-M :
+a. Uniformisation de l’approche pour la création/modification des tâches
+b. Journalisation des actions sur les tâches (création, modification, changement de planification)
+c. Révision de chaque script pour la gestion des erreurs
+d. Mise en place d’une page de référence unique pour le suivi de l’exécution des tâches
+2.	Zabbix :
+a. Exhaustivité des informations sur les événements et incidents envoyés au système
+b. Création de tableaux de bord pour le suivi de l’état global du système
+c. Mise en place d’un tableau de bord unique pour la supervision des systèmes
+d. Possibilité d’activation/désactivation en cascade de la supervision des systèmes lors des interventions planifiées
+Je propose d’organiser nos réunions régulièrement les mardis ou mercredis (merci de me faire part de vos préférences) afin que nous puissions définir des tâches précises et suivre leur avancement.
+Puisque Houcine sera en congé jusqu’au 3 mars, je propose de planifier la première discussion le 4 ou 5 mars.
+Bien entendu, les échanges d'opinions par écrit avant la réunion sont tout à fait encouragés.
