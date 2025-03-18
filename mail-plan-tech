@@ -13,6 +13,8 @@ intégration progressive dans Zabbix,
 et enfin, phases de test, recette et déploiement.
 Ce document vise à structurer la migration de manière fluide et à faciliter les échanges techniques. Une fois les détails validés ensemble, il pourra être intégré dans l’EDB comme référence pour le projet.
 
+Et est-ce que je comprends bien qu’il est prévu de réécrire tous les scripts en Python ? Si c’est le cas, cette décision ambitieuse mérite une discussion plus large avec la participation d’autres collègues et responsables.
+
 Je vous propose d’en discuter ensemble afin d’enrichir et affiner ce plan, notamment sur les aspects de tests, d’automatisation du déploiement, et de suivi post-migration.
 
 Merci pour vos retours, je suis preneur de toute suggestion ou remarque.
