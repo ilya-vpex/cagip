@@ -1,0 +1,20 @@
+Objet : Rationalisation des scripts – proposition de plan technique à valider ensemble
+
+Bonjour à toutes et à tous,
+
+Outre l’inventaire des scripts, il me semble nécessaire d’élaborer et de formaliser dès le départ une méthodologie claire, ainsi que des standards pour le développement, les tests, le déploiement et le contrôle de qualité. Cela permettra de garantir la cohérence des futurs scripts Python, ainsi qu’une intégration maîtrisée dans Zabbix.
+
+Comme convenu, j’ai commencé l’inventaire des scripts SWP, mais je travaille en parallèle sur un document qui détaille l’ensemble des étapes techniques du projet :
+
+analyse des scripts existants,
+révision fonctionnelle si nécessaire,
+réécriture en Python selon un cadre défini,
+intégration progressive dans Zabbix,
+et enfin, phases de test, recette et déploiement.
+Ce document vise à structurer la migration de manière fluide et à faciliter les échanges techniques. Une fois les détails validés ensemble, il pourra être intégré dans l’EDB comme référence pour le projet.
+
+Je vous propose d’en discuter ensemble afin d’enrichir et affiner ce plan, notamment sur les aspects de tests, d’automatisation du déploiement, et de suivi post-migration.
+
+Merci pour vos retours, je suis preneur de toute suggestion ou remarque.
+
+Bien à vous,
